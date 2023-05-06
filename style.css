@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+
+.form-floating label {
+    color: #21252B;
+}
+
+.heading {
+    text-align: center;
+}
+
+.sub-heading {
+    text-align: right;
+}
+
+.bg-red {
+    background-color: rgb(192, 20, 227);
+}
+
+.bg-end {
+    background-color: rgb(15, 157, 88);
+}
+
+.bg-start {
+    background-color: rgb(20, 227, 68);
+}
+
+.bg-reset {
+    background-color: rgb(227, 120, 20);
+}
+
+.form-floating {
+    padding-right: 70%;
+}
+
+.btn {
+    width: 175px;
+}
+
+.btn-success {
+    background-color: rgb(66, 133, 244);
+}
+
+.btn-danger {
+    background-color: rgb(219, 68, 55);
+}
+
+
+  

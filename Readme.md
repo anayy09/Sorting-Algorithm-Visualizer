@@ -9,7 +9,7 @@ This website allows users to visualize different sorting algorithms in action. U
 
 ## Getting Started
 
-To use the website, simply navigate to [sorting-visualizer.com](https://www.sorting-visualizer.com) in your web browser. From there, you can select a sorting algorithm, input an array of values, and hit the "Sort" button to see the algorithm in action.
+To use the website, simply navigate to [anayy09.github.io/Sorting-Algorithm-Visualizer](https://anayy09.github.io/Sorting-Algorithm-Visualizer/) in your web browser. From there, you can select a sorting algorithm, input an array of values, and hit the "Sort" button to see the algorithm in action.
 
 ## Features
 
